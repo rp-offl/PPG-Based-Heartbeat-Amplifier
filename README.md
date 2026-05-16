@@ -45,12 +45,12 @@ Emitter follower used to prevent loading effect and drive the buzzer.
 | Stage | Gain |
 |------|------|
 | LPF | 1.47 |
-| Stage 1 | -2.15 |
-| Stage 2 | -5.3 |
+| Stage 1 | -3.95 |
+| Stage 2 | -4.7 |
 | Buffer | ≈1 |
 
 ### Overall Gain
-Overall Gain ≈ 16.7
+Overall Gain ≈ 27.29
 
 ---
 
@@ -60,8 +60,9 @@ Overall Gain ≈ 16.7
 ---
 
 ## Team Members
-- Pranav RP
-- (Add teammate names)
+- Pranav Ramanathan
+- Sambhav Jain
+- Vansh Dokania
 
 ---
 
